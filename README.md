@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/PrateekSethia26](https://github.com/PrateekSethia26)
 
-- 📫 How to reach me **[Linkedin :@Prateek-Sethia-26](https://www.linkedin.com/in/prateek-sethia-9896091b8/) [Instagram :  @prateek_sethia_26](https://www.instagram.com/prateek_sethia_26-9896091b8/)**
+- 📫 How to reach me **[Linkedin : @Prateek-Sethia-26](https://www.linkedin.com/in/prateek-sethia-9896091b8/) [  Instagram :  @prateek_sethia_26](https://www.instagram.com/prateek_sethia_26-9896091b8/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
