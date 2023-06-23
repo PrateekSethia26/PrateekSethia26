@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prateek Sethia</h1>
 <h3 align="center">Learner || Specialization in Data Science and Data Analytics with Samatrix.io ||</h3>
 
-- 🔭 I’m currently working on **Super Market**
+- 🔭 I’m currently working on **Stock Market Price Prediction**
 
 - 🌱 I’m currently learning **Machine Learning , Power BI**
 
