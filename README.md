@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Machine Learning , Power BI**
 
-- 👯 I’m looking to collaborate on [Linkedin](https://www.linkedin.com/in/prateek-sethia-9896091b8/)
+- 👯 I’m looking to collaborate on **Python Projects**
 
 - 🤝 I’m looking for help with **Machine Learning Algorithms**
 
