@@ -16,6 +16,7 @@
 <a href="https://linkedin.com/in/prateek-sethia-9896091b8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prateek-sethia-9896091b8" height="30" width="40" /></a>
 <a href="https://instagram.com/prateek_sethia_26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prateek_sethia_26" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/prateeksethia26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="prateeksethia26" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/prateek_sethia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prateek_sethia" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
