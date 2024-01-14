@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **Stock Market Price Prediction**
 
-- 🌱 I’m currently learning **Machine Learning , Power BI**
+- 🌱 I’m currently learning **Machine Learning , Java**
 
-- 👯 I’m looking to collaborate on **Python Projects**
+- 👯 I’m looking to collaborate on **Machine Learning and Java Projects**
 
 - 🤝 I’m looking for help with **Machine Learning Algorithms**
 
