@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prateek Sethia</h1>
-<h3 align="center">Learner || Specialization in Data Science and Data Analytics with Samatrix.io ||</h3>
+<h3 align="center">VIT MCA'25 || Learner || Developer || Java || Python || Machine Learning </h3>
 
 - 🌱 I’m currently learning **Machine Learning , Java**
 
