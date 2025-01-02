@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Prateek Sethia</h1>
 <h3 align="center">VIT MCA'25 || Learner || Developer || Java || Python || Machine Learning </h3>
 
-- 🌱 I’m currently learning **Machine Learning , Java**
+- 🌱 I’m currently learning **Machine Learning , Java, C++**
 
-- 👯 I’m looking to collaborate on **Machine Learning and Java Projects**
-
-- 🤝 I’m looking for help with **Machine Learning Algorithms**
+- 👯 I’m looking to collaborate on **Machine Learning and Web Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/PrateekSethia26](https://github.com/PrateekSethia26)
 
